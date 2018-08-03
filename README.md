@@ -1,2 +1,2 @@
 # Hello_World
-this is the first practice repository
+This is the first practice repository.
